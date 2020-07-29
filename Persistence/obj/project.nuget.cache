@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVTeYfIKE1E0od4k3wYxeHWjo7/IQtY61PpetLjUS/FunGDPpCQWXXi9CkTtqpUA4QP3xKmxvivgUsVvX2qiKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Baru1\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
