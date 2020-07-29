@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlbJxhyFtbOZZkffIsJWRMQpT/oWfBnhFU92VDdqXzrEk4WYn1GjgP47I75xDq3RVb6/HQuKy5Fyi4Plnb7+kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Baru1\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
