@@ -15,11 +15,28 @@
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "isolatedModules": true,
+    "isolatedModules": false,
     "noEmit": true,
-    "jsx": "react"
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitThis": true,
+    "baseUrl": "./src"
   },
   "include": [
-    "src"
+    "src",
+    "./typings-custom/**/*.ts",
+    "src/**/*.tsx?"
+  ],
+  "exclude": [
+    "./src/**/__tests__/**/*.js",
+    "node_modules",
+    "**/__snapshots__/*",
+    "**/*.snap",
+    "**/*.test.jsx?"
   ]
 }
