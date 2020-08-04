@@ -38,6 +38,9 @@ namespace API
                     policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
                 });
             });
+            services.AddMvc().SetCompatibilityVersion
+            (CompatibilityVersion.Version_2_2);
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,15 +51,14 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
-
-            app.UseCors("CorsPolicy");
-            // app.UseMvc();
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 
             app.UseAuthorization();
-
+            
+            app.UseCors("CorsPolicy");
+            // app.UseMvc();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
