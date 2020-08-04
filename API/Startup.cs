@@ -48,10 +48,10 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
-            // app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
 
             app.UseCors("CorsPolicy");
-            app.UseMvc();
+            // app.UseMvc();
 
             app.UseRouting();
 
