@@ -39,7 +39,7 @@ namespace API
                 });
             });
             services.AddMvc().SetCompatibilityVersion
-            (CompatibilityVersion.Version_2_2);
+            (CompatibilityVersion.Version_3_0);
             
         }
 
