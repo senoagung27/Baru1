@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1kV6JN6zoaqQhUQy4GFUxUTLd78YfBJ6dd6Rszh5SQcH7GjMdGl8dnHiEF38XM0MuUzVbt4WHQrQaMUlgav9qg==",
+  "dgSpecHash": "KGx9OqUtIMLTHTIAT/KWpUy62CsmZJN9pOE8Fr6KPc3usxVoRU2a73sHRXF7a+s5GSCfx6nUcc9HPtNi6Nz48A==",
   "success": true,
   "projectFilePath": "C:\\Users\\INTEL NUC\\Documents\\GitHub\\Baru1\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\INTEL NUC\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\INTEL NUC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\INTEL NUC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\INTEL NUC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
